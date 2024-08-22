@@ -64,3 +64,18 @@ body{
     font-size: 14px;
     margin-top: 5px;
 }
+@media only screen and (max-width:500px){
+    #form_container{
+        width:300px;
+        font-size: 10px;
+        padding:6px;
+    }
+    #name , #email ,#password ,#address{
+        font-size: 10px;
+        padding:5px;
+    }
+    body{
+        background-repeat: no-repeat;
+        overflow: hidden;
+    }
+}
