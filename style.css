@@ -69,6 +69,7 @@ body{
         width:300px;
         font-size: 10px;
         padding:6px;
+        margin-bottom:200px;
     }
     #name , #email ,#password ,#address{
         font-size: 10px;
